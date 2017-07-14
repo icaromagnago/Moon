@@ -2,7 +2,7 @@
 title:              Ícaro Magnago
 bio:                'Um blog para aprender, compartilhar e ensinar sobre desenvolvimento de software.'
 description:        "Desenvolvedor de software aprendendo, compartilhando e ensinando sobre desenvolvimento de software."
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo2.png'
 background:         'assets/img/placeholder-big.jpg'
@@ -25,7 +25,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   icaromagnago
 
 # Social
 # if you don't have any of social below, comment the line.
