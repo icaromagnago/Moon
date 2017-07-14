@@ -1,45 +1,34 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+title: "Certificação Oracle Certified Associate - Java SE 8 Programmer I e como se preparar para o exame"
+date: 2017-07-13
+excerpt: "Tire a certificação OCAJP8"
+tags: [java, certificação, OCA]
 comments: true
 ---
+*Este artigo é uma reprodução do texto que publiquei em meu perfil do [linkedin](https://www.linkedin.com/pulse/certifica%C3%A7%C3%A3o-oracle-certified-associate-java-se-8-i-%C3%ADcaro-magnago)*.
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+Recentemente tive a felicidade de passar no exame e obter a certificação OCAJP 8. Neste artigo falarei sobre esta certificação para desenvolvedores java e como eu fiz para me preparar para o exame. Espero que esse artigo seja útil a você que está em busca desta certificação.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+## Sobre a certificação OCAJP 8
 
-## Cupidatat 90's lo-fi authentic try-hard
+Esta certificação é o primeiro nível da plataforma Java SE 8 e por onde você deve começar caso não possua nenhuma certificação Java. Com esta certificação você demonstra os seus conhecimentos em orientação a objetos, linguagem de programação java e conhecimentos gerais sobre a plataforma Java.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+## Detalhes do exame
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+* **Código:** 1Z0-808
+* **Duração:** 150 minutos
+* **Número de questões:** 70
+* **Pontuação para passar:** 65%
+* **Formato das questões:** Múltipla escolha
+* **Idioma:** Inglês e espanhol
+* **Preço:** US$150,00
+* O conteúdo do exame pode ser consultado [nesta página](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808).
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+## Preparação para o exame
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+Para me preparar para o exame eu utilizei o livro [OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808](https://www.amazon.com.br/OCA-Certified-Associate-Programmer-1Z0-808-ebook/dp/B00R04DF3I/ref=sr_1_1?ie=UTF8&qid=1499375587&sr=8-1&keywords=OCA) dos autores Jeanne Boyarsky e Scott Selikoff e os simulados do [whizlabs](https://www.whizlabs.com/). O livro cobre todo o conteúdo do exame em seus seis capítulos, ao final de cada capítulo o livro disponibiliza algumas questões de revisão - excelente para a fixação do conteúdo e para se acostumar com o estilo das questões da prova. A todo momento os autores chamam a atenção do leitor para as "pegadinhas" presentes no exame.
 
-## Forage occaecat cardigan qui
+O whizlabs oferece testes para prática com mais de seiscentas questões diferentes. As questões são do formato da prova e todas elas possuem respostas comentadas. O seu custo é de US$19,95. Recomendo a prática através de simulados, pois ele te dá uma noção de como será a prova.
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+Quando se está estudando é importante definir metas para que você não desanime e desista de fazer a prova. Um exemplo, o livro possui por volta de quatrocentas páginas, definindo uma meta de leitura de dez páginas por dia em quarenta dias você terá alcançado o seu objetivo. Esta era a minha meta, dez páginas por dia. Acabei terminado a leitura antes, em aproximadamente trinta dias. No mês seguinte realizada os simulados e reestudava os meus pontos fracos até o ponto onde passei a acertar em média 90% nos simulados. Por fim, fiz o exame e obtive a certificação.
